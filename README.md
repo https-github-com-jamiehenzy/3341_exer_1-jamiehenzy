@@ -1,9 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/nsWgJ934)
 # :wave: The Basics of GitHub 
 
-## 🤓 Course overview and learning outcomes 
-
-The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
+The goal of this assignment is to give you a brief introduction to GitHub. Also provided are materials for further learning and a few ideas to "git" you started on the platform. 🚀
 
 ## :octocat: Git and GitHub
 
@@ -83,19 +81,14 @@ To learn  more about starring repositories, read ["Saving Repositories with Star
 You can follow people on GitHub to receive notifications about their activity and discover projects in their communities. When you follow a user, their public GitHub activity will show up on your dashboard so you can see all the cool things they are working on. 
 To learn more about following users, read ["Following People"](https://docs.github.com/en/github/getting-started-with-github/following-people).
 
-#### Browsing GitHub Explore 
+## 📝 Assignment 1:
+* Open a pull request and let me know that you’ve finished this course.  
+* Create a new markdown file in this repository. In it, let me know what you learned and what you are still confused about. Experiment with different styles!
 
-GitHub Explore is a great place to do just that … explore :smile: You can find new projects, events, and developers to interact with.
-
-You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you interact with GitHub the more tailored your Explore view will be. 
-
-## 📝 Optional next steps 
-
-* Open a pull request and let your teacher know that you’ve finished this course.  
-* Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
+## 📝 Assignment 2: Build a GitHub portfolio to showcase your skills!
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
-* Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
-* [Let us know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey? 
+* Watch the following video and build a rough draft of your portfolio, which you'll add to throughout the course.
+* [Shaw Talebi on how to make a portfolio](https://www.youtube.com/watch?v=D9CLhQdLp8w&feature=youtu.be) 
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
