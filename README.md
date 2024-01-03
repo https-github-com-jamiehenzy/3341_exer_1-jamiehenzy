@@ -82,7 +82,7 @@ You can follow people on GitHub to receive notifications about their activity an
 To learn more about following users, read ["Following People"](https://docs.github.com/en/github/getting-started-with-github/following-people).
 
 ## 📝 Assignment 1: Baby steps
-* Open a pull request and let me know your favorite food.  
+* Open a pull request and let me know what college courses you've taken so far.  
 * Create a new markdown file in this repository. In it, let me know what you learned and what you are still confused about. Experiment with different styles!
 
 ## 📝 Assignment 2: Start building a GitHub portfolio to showcase your skills!
